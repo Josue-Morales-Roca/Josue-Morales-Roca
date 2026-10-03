@@ -1,57 +1,54 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Josué Misael Morales Roca 👋
 
 ### 🚀 Sobre mí
-¡Bienvenido/a a mi perfil de GitHub! Soy un/a apasionado/a del desarrollo de software enfocado en crear soluciones eficientes y visualmente atractivas. 
+¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado del desarrollo de software enfocado en crear soluciones eficientes, funcionales y bien estructuradas tanto en el frontend como en el backend!
 
-- 🔭 Actualmente estoy trabajando en **[Tu Proyecto Actual o Empresa]**
-- 🌱 Estoy aprendiendo y profundizando en **[Tecnología que estás estudiando, ej: Next.js o Docker]**
-- 💬 Pregúntame sobre **[Tus temas fuertes, ej: React, Python o CSS]**
-- ⚡ Dato curioso: **[Algo divertido sobre ti, ej: Prefiero el café frío o juego ajedrez]**
+- 🔭 Actualmente estoy trabajando en proyectos de desarrollo web full stack
+- 🌱 Estoy aprendiendo y profundizando en PHP, SQL Server, arquitectura en la nube (Azure) y automatización de pruebas
+- 💬 Pregúntame sobre PHP (MVC), HTML/CSS, Bootstrap, JavaScript y gestión de bases de datos
+- ⚡ Dato curioso: Me apasiona la pesca deportiva en costa (spinning) y la crianza de aves
 
 ---
 
 ### 🛠️ Mis Tecnologías y Herramientas
 
-#### **Frontend**
-`HTML5` • `CSS3` • `JavaScript` • `TypeScript` • `React` • `Next.js` • `TailwindCSS`
+Frontend
+HTML5 • CSS3 • JavaScript • Bootstrap
 
-#### **Backend & BD**
-`Node.js` • `Python` • `Java` • `PostgreSQL` • `MongoDB`
+Backend & BD
+PHP • SQL Server • Apache (XAMPP) • PDO
 
-#### **Herramientas & Cloud**
-`Git` • `Docker` • `AWS` • `Linux` • `VS Code`
+Herramientas & Cloud
+Git • GitHub • VS Code • Azure
 
 ---
 
 ### 💻 Proyectos Destacados
 Aquí tienes algunos de los proyectos de los que me siento más orgulloso/a:
 
-1. **[Nombre del Proyecto 1]**  
-   * **Descripción:** Una breve línea explicando qué hace el proyecto (ej: Plataforma de comercio electrónico con pasarela de pagos).
-   * **Tecnologías:** `React`, `Node.js`, `MongoDB`
-   * **Enlaces:** [📂 Código](https://github.com) | [🚀 Demo en vivo](https://tu-sitio-web.com)
+1. Sitio Web Informativo & Backend MVC
 
-2. **[Nombre del Proyecto 2]**  
-   * **Descripción:** Aplicación móvil o API REST para gestión de tareas automatizadas.
-   * **Tecnologías:** `Python`, `FastAPI`, `PostgreSQL`
-   * **Enlaces:** [📂 Código](https://github.com) | [🚀 Demo en vivo](https://tu-sitio-web.com)
+Descripción: Desarrollo de una página web publicitaria con interfaz responsiva en el frontend y arquitectura MVC en el backend para la gestión e integración con la base de datos.
+
+Tecnologías: HTML5, CSS3, Bootstrap, JavaScript, PHP, SQL Server
 
 ---
 
-### 📜 Certificaciones
-* 🎓 **[Nombre de la Certificación 1]** – *Emitido por [Institución, ej: Google, Udemy, Platzi]* ([Ver credencial](https://enlace-a-tu-certificado.com))
-* 🎓 **[Nombre de la Certificación 2]** – *Emitido por [Institución]* ([Ver credencial](https://enlace-a-tu-certificado.com))
+### 📜 Certificaciones y Rutas de Aprendizaje
+
+- 🎓 **Introducción a la infraestructura en la nube: Descripción de la administración y la gobernanza de Azure** – *Emitido por Microsoft Learn* ([Ver credencial](https://learn.microsoft.com/api/achievements/share/es-es/MORALESROCAJOSUEMISAEL-1681/BUQC6YKD?sharingId=6050E6CA3C411714))
+- 🎓 **Introducción a la infraestructura en la nube: Descripción de la arquitectura y los servicios de Azure** – *Emitido por Microsoft Learn* ([Ver credencial](https://learn.microsoft.com/api/achievements/share/es-es/MORALESROCAJOSUEMISAEL-1681/QL7SDZDE?sharingId=6050E6CA3C411714))
+- 🎓 **Introducción a la infraestructura en la nube: Descripción de los conceptos de la nube** – *Emitido por Microsoft Learn* ([Ver credencial](https://learn.microsoft.com/api/achievements/share/es-es/MORALESROCAJOSUEMISAEL-1681/2TN995PV?sharingId=6050E6CA3C411714))
 
 ---
 
 ### 📊 Mis Estadísticas de GitHub
 *(Estas tarjetas se actualizarán automáticamente con tu actividad real)*
 
-<!-- REPLAZA "tu-usuario" por tu nombre exacto de GitHub en los siguientes enlaces -->
 <p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Josue-Morales-Roca&show_icons=true&theme=radial" alt="Estadísticas de GitHub" />
   <br/>
-  <img src="https://vercel.app" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-Morales-Roca&layout=compact&theme=radial" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -59,6 +56,5 @@ Aquí tienes algunos de los proyectos de los que me siento más orgulloso/a:
 ### 📬 Conéctate conmigo
 ¿Tienes algún proyecto en mente o simplemente quieres saludar?
 
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-- **Twitter/X:** [@tu-usuario](https://x.com)
-- **Email:** tu-correo@email.com
+- **LinkedIn:** [Josué Morales Roca](https://www.linkedin.com)
+- **Email:** josuemisaelmoralesroca@gmail.com
